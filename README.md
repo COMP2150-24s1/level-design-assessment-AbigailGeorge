@@ -48,27 +48,37 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Checkpoints
 
+The introduction of the checkpoint first allows players to be able to explore the upcoming mechanics without much consequence and respawn close. This also means that later on in the section the player can respawn in the correct spot. 
 ### 2.2. Spikes
 
+Introducing  the first mechanic that inflicts damage on the player and because it is close to the checkpoint at the beginning of the level the player can experiment with the spike.  
 ### 2.3. Acid
 
+Acid is another main damaging mechanic within the game so having it close to the first checkpoint allows for experimentation and how to adapt your basic skills for when the level difficulty gets harder.
 ### 2.4. Moving Platforms
 
+The moving platform visualises the increase of difficulty of a mechanic and the player can explore how the moving platform works, and the speed and distance it goes.
 ### 2.5. Health Pickups
 
+The need for health pickups aren’t needed until later in the level as there wasn't much doing damage to the player. The inclusion of the health pick up is where I believe players may begin to need more health.
 ### 2.6. Keys
 
+This is where the first key is seen, which is at the end of the first section which is just an introduction to the game and its mechanics so it is seen before some of the other core mechanics.
 ### 2.7. Weapon Pickup (Staff)
 
+This is the first weapon introduced which is seen before the enemies as it gives players the choice of each fighting the enemy or avoiding it.
 ### 2.8. Passthrough Platforms
 
+This is where the level starts to get more difficult and more player skill is needed. This mechanic starts the parkour element of the level.
 ### 2.9. Chompers
 
+The Chomper is added where it is solo and allows the player to experiment with the enemy and figure out the abilities of the Chomper; how strong it is and hit range, etc.
 ### 2.10. Spitters
 
+The Spitter is introduced the same way as the Chomper allowing the player to experiment and determine its strength. This is also the time where the player will determine which enemy is a bigger threat: the Spitter or the Chomper.
 ### 2.11. Weapon Pickup (Gun)
 
-
+This mechanic is added last where the difficulty is increasing greatly and the need for more weapons becomes apparent to the player. Allows for different dynamics of play to merge when fighting enemies.
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
