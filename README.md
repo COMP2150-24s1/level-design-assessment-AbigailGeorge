@@ -12,7 +12,6 @@ Your document must include images. To insert an image into your documentation, p
 ```
 
 Example:
-
 ![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
@@ -87,7 +86,7 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
-
+!(DocImages/graph.png)
 ### 3.3.	Level Map – Section 2
 
 ### 3.4.	Level Map – Section 3
